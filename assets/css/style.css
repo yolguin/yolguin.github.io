@@ -1,0 +1,86 @@
+.body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color: black;
+    color:black
+}
+.me {
+    color:lawngreen;
+    margin-bottom: 2rem;
+    
+}
+
+.container {
+    color: black;
+
+}
+
+.header {
+    background-color: black;
+}
+
+.lechuga {
+    display: flex;
+    padding: 5rem;
+}
+.img-sm {
+    width: 5rem;
+}
+
+.img-md {
+    width: 10rem;
+}
+
+.card-text {
+    color: #707070  
+}
+
+
+.roboto-md {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.container {
+    background-color: black;
+}
+.formacion{
+    background-color: black;
+    color:aliceblue;
+    text-align: center;
+    padding: 2rem 2rem;
+}
+.formacion h2{
+    margin-bottom: 4rem;
+    color: lawngreen;
+}
+.formacion .cajas{
+    justify-content: center;
+    display:flex;
+    gap: 3rem;
+    color:aliceblue
+}
+.formacion .cajas .iconos{
+    width: 25%;
+}
+.iconos i{
+    font-size: 40px;
+    margin-bottom: 1rem;
+}
+
+.Experiencia{
+    background-color: black;
+    color:aliceblue;
+    text-align: center;
+    padding: 2rem 2rem;
+}
+.Experiencia h2{
+    margin-bottom: 4rem;
+    color:lawngreen 
+}
+.portafolio {
+    color:lawngreen;
+    margin-bottom: 2rem;
+    
+}
